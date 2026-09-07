@@ -13,17 +13,18 @@ DataAnalytics-L1-EDARetailSales/
 ├── data/
 │   └── retail_sales_data.csv
 ├── notebooks/
-    └── Retail_Sales_EDA.ipynb
-└── screenshots/
-    ├── Corr_Heatmap.png
-    ├── Customer_Age_Group_Segmentation.png
-    ├── Customer_Demographic.png
-    ├── Numerical_Variables_Distributions.png
-    ├── Revenue_by_Product_Category.png
-    ├── Sales_Time_Series.png
-    ├── Spread_Outliers.png
-    ├── Top_10_Products.png
-    └── Total_sales_and_Avg_ProfitMargin.png
+│    └── Retail_Sales_EDA.ipynb
+│── screenshots/
+│   ├── Corr_Heatmap.png
+│   ├── Customer_Age_Group_Segmentation.png
+│   ├── Customer_Demographic.png
+│   ├── Numerical_Variables_Distributions.png
+│   ├── Revenue_by_Product_Category.png
+│   ├── Sales_Time_Series.png
+│   ├── Spread_Outliers.png
+│   ├── Top_10_Products.png
+│   └── Total_sales_and_Avg_ProfitMargin.png
+└── README.md
 ```
 
 ## Outputs
